@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋 my name is DerLev
 
 <!--
 **DerLev/derlev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 📫 How to reach me:
+
+- [Twitter](https://twitter.com/_derlev_/)
+- [Instagram](https://www.instagram.com/_derlev_/)
+- [Website](https://mc-mineserver.de/)
