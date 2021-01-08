@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 - [Twitter](https://twitter.com/_derlev_/)
 - [Instagram](https://www.instagram.com/_derlev_/)
-- [Website](https://mc-mineserver.de/)
+- [Website](https://derlev.mc-mineserver.de/)
