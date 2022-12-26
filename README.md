@@ -7,20 +7,20 @@
 
 ### Stats
 
-<div style="display:flex;">
+<div>
 
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only" align="center">
-    <img alt="GitHub Stats dark" src="https://github-readme-stats.vercel.app/api?username=DerLev&hide=contribs,issues&count_private=true&show_icons=true&theme=github_dark&hide_border=true&border_radius=0" />
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+    <img align="center" alt="GitHub Stats dark" src="https://github-readme-stats.vercel.app/api?username=DerLev&hide=contribs,issues&count_private=true&show_icons=true&theme=github_dark&hide_border=true&border_radius=0" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only" align="center">
-    <img alt="GitHub Stats light" src="https://github-readme-stats.vercel.app/api?username=DerLev&hide=contribs,issues&count_private=true&show_icons=true&&hide_border=true&border_radius=0" />
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+    <img align="center" alt="GitHub Stats light" src="https://github-readme-stats.vercel.app/api?username=DerLev&hide=contribs,issues&count_private=true&show_icons=true&&hide_border=true&border_radius=0" />
   </a>
 
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only" align="center">
-    <img alt="GitHub Languages dark" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerLev&hide=html,dart&layout=compact&theme=github_dark&hide_border=true&border_radius=0" />
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+    <img align="center" alt="GitHub Languages dark" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerLev&hide=html,dart&layout=compact&theme=github_dark&hide_border=true&border_radius=0" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only" align="center">
-    <img alt="GitHub Languages light" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerLev&hide=html,dart&layout=compact&hide_border=true&border_radius=0" />
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+    <img align="center" alt="GitHub Languages light" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerLev&hide=html,dart&layout=compact&hide_border=true&border_radius=0" />
   </a>
 
 </div>
