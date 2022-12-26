@@ -7,7 +7,7 @@
 
 ### Stats
 
-<div>
+<div style="display:flex;">
 
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only" align="center">
     <img alt="GitHub Stats dark" src="https://github-readme-stats.vercel.app/api?username=DerLev&hide=contribs,issues&count_private=true&show_icons=true&theme=github_dark&hide_border=true&border_radius=0" />
