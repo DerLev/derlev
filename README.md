@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [a useful Spotify Playlist Utility](https://github.com/DerLev/spotify-playlist-utilities)
+- 🔭 I’m currently trying out [some GCP stuff](https://github.com/DerLev/derlev-xyz)
 - 🌱 I’m currently learning Ansible & Kubernetes
-- 📫 How to reach me: [DerLev#0441](https://discord.com/users/377103974081495042)
+- 📫 How to reach me: [derlev](https://discord.com/users/377103974081495042)
 - ⚡ Fun fact: I somehow got into nodejs and web development through YouTube tutorials on NuxtJS
 
 ### Stats
