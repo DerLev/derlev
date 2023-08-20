@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently trying out [some GCP stuff](https://github.com/DerLev/derlev-xyz)
 - 🌱 I’m currently learning Ansible & Kubernetes
-- 📫 How to reach me: [derlev](https://discord.com/users/377103974081495042)
+- 📫 How to reach me: [Discord](https://discord.com/users/377103974081495042) - [Email](mailto:github@derlev.xyz)
 - ⚡ Fun fact: I somehow got into nodejs and web development through YouTube tutorials on NuxtJS
 
 ### Stats
